@@ -1,0 +1,19 @@
+h1{
+	background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+}
+.display-1{
+	text-align: center;
+}
+audio{
+	display: block;
+}
+span{
+	display: inline-block;
+}
+.text-center{
+	font-size: 30px;
+	font-weight: 700;
+}
+#email{
+	display: block;
+}
